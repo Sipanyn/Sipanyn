@@ -1,5 +1,5 @@
 ## Welcome to My GitHub Profile! 👋
-Hi, I'm Sipan Younan, a passionate developer from Urmia.
+Hi, I'm Sipan Younan, a passionate FrontEnd developer from Urmia.
 ## 🚀 About Me
 - 🌱 I’m currently learning **JavaScript** and **React Js**.
 ## 🛠️ Skills
