@@ -2,6 +2,7 @@
 I am Sipan, a Frontend Developer who is currently applying his skills to solve problems.
 ## 🚀 About Me
 - 🌱 I’m currently learning **Next js**.
+- ⚡ Fun fact: For as long as I can remember,I'm learning to be better.
 ## 🛠️ Skills and Tools
 ![HTML5 Badge](https://img.shields.io/badge/Html%205-E34F26?logo=html5&logoColor=white)
 ![Css 3](https://img.shields.io/badge/Css%203-280FEE?logo=css&logoColor=white)
