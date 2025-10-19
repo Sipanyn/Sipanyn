@@ -2,8 +2,9 @@
 Hi, I'm Sipan Younan, a passionate FrontEnd developer from Urmia.
 ## 🚀 About Me
 - 🌱 I’m currently learning **JavaScript** and **React Js**.
-## 🛠️ Skills
+## 🛠️ Skills and Tools
 - **Languages**:</br>
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 ![html 5](https://img.shields.io/badge/Languages-Html%205-F06529)
 ![css 3](https://img.shields.io/badge/Languages-Css%203-white)
 ![js](https://img.shields.io/badge/Languages-Java%20Script-f7df1e)
