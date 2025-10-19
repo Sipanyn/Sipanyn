@@ -12,7 +12,6 @@ I am Sipan, a Frontend Developer who is currently applying his skills to solve p
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-8A2BE2)
 ![Github](https://img.shields.io/badge/Github-181717?logo=GitHub&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
