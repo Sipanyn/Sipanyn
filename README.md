@@ -1,9 +1,8 @@
-## Welcome to My GitHub Profile! 👋
-Hi, I'm Sipan Younan, a passionate FrontEnd developer from Urmia.
+## Hey, there! 👋
+I am Sipan, a Frontend Developer who is currently applying his skills to solve problems.
 ## 🚀 About Me
-- 🌱 I’m currently learning **JavaScript** and **React Js**.
+- 🌱 I’m currently learning **Next js**.
 ## 🛠️ Skills and Tools
-
 ![HTML5 Badge](https://img.shields.io/badge/Html%205-E34F26?logo=html5&logoColor=white)
 ![Css 3](https://img.shields.io/badge/Css%203-280FEE?logo=css&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white)
@@ -18,6 +17,6 @@ Hi, I'm Sipan Younan, a passionate FrontEnd developer from Urmia.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Tools](https://img.shields.io/badge/Tools-VS%20Code-blue?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/VS%20Code-3B66BC)
 
 
