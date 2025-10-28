@@ -14,6 +14,7 @@ I am Sipan, a Frontend Developer who is currently applying his skills to solve p
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white)
 ![zod Badge](https://img.shields.io/badge/zod-00BFA5?logo=zod&logoColor=white)
+![reacthookform](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=zod&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?logo=GitHub&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
