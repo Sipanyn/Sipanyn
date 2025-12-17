@@ -1,6 +1,6 @@
 ## Hey, there! 👋
 I am Sipan, a Frontend Developer who is currently applying his skills to solve problems.
-## 🚀 About Me
+## 🙋 About Me
 - 🌱 I’m currently learning **Next js**.
 - ⚡ Fun fact: For as long as I can remember,I'm learning to be better.
 ## 🛠️ Skills and Tools
@@ -10,7 +10,7 @@ I am Sipan, a Frontend Developer who is currently applying his skills to solve p
 ![Tailwind css](https://img.shields.io/badge/Tailwind%20css-06B6D4?logo=tailwindcss&logoColor=white)
 ![React js](https://img.shields.io/badge/React%20js-61DAFB?logo=react&logoColor=white)
 ![Next js](https://img.shields.io/badge/Next%20js-000000?logo=nextdotjs&logoColor=white)
-![Type Script](https://img.shields.io/badge/Type%20Script%20js-3178C6?logo=nextdotjs&logoColor=white)
+![Type Script](https://img.shields.io/badge/Type%20Script-3178C6?logo=typescript&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white)
